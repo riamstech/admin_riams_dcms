@@ -146,7 +146,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
         <a href="index3.html" class="brand-link">
             <img src="{{ asset('images/AdminLTELogo.png') }}" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
                  style="opacity: .8">
-            <span class="brand-text font-weight-light">AdminLTE 3</span>
+            <span class="brand-text font-weight-light">RIAMS DCMS</span>
         </a>
 
         <!-- Sidebar -->
@@ -157,7 +157,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                     <img  src="{{ asset('images/user2-160x160.jpg') }}" class="img-circle elevation-2" alt="User Image">
                 </div>
                 <div class="info">
-                    <a href="#" class="d-block">Alexander Pierce</a>
+                    <a href="#" class="d-block">Mahammad Rasheed</a>
                 </div>
             </div>
 
@@ -187,7 +187,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
                     <li class="nav-item has-treeview">
                         <a href="#" class="nav-link">
-                            <i class="nav-icon fa fa-users"></i>
+                            <i class="nav-icon fa fa-hospital-o"></i>
                             <p>
                                 Patients
                                 <i class="right fa fa-angle-left"></i>
@@ -208,7 +208,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                             </li>
                             <li class="nav-item">
                                 <a href="pages/charts/inline.html" class="nav-link">
-                                    <i class="fa fa-calendar nav-icon"></i>
+                                    <i class="fa fa-eye nav-icon"></i>
                                     <p>Visits</p>
                                 </a>
                             </li>
@@ -225,7 +225,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                     </li>
                     <li class="nav-item has-treeview">
                         <a href="#" class="nav-link">
-                            <i class="nav-icon fa fa-money"></i>
+                            <i class="nav-icon fa fa-paypal"></i>
                             <p>
                                 Payments
                                 <i class="fa fa-angle-left right"></i>
@@ -234,13 +234,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
                                 <a href="pages/forms/general.html" class="nav-link">
-                                    <i class="fa fa-circle-o nav-icon"></i>
+                                    <i class="fa fa-money nav-icon"></i>
                                     <p>All Payments</p>
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a href="pages/forms/advanced.html" class="nav-link">
-                                    <i class="fa fa-circle-o nav-icon"></i>
+                                    <i class="fa fa-plus nav-icon"></i>
                                     <p>Add Payments</p>
                                 </a>
                             </li>
@@ -1111,10 +1111,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <footer class="main-footer">
         <!-- To the right -->
         <div class="float-right d-sm-none d-md-block">
-            Anything you want
+            HandCrafted and made with Love <i class="fa fa-heart text-danger"></i> Chumaila
         </div>
         <!-- Default to the left -->
-        <strong>Copyright &copy; 2014-2018 <a href="https://adminlte.io">AdminLTE.io</a>.</strong> All rights reserved.
+        <strong>Copyright &copy; 2014-2018 <a href="https://adminlte.io">Riams Private Limited</a>.</strong> All rights reserved.
     </footer>
 </div>
 <!-- ./wrapper -->
